@@ -1,4 +1,4 @@
-sample-dev：Sample browserify project for shadow-widget
+sample_dev：Sample browserify project for shadow-widget
 ------------------------------
 
 ### Install
